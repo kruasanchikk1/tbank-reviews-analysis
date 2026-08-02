@@ -1,0 +1,4 @@
+.idea/
+dataset-sots-seti.xlsx
+*.pyc
+__pycache__/
